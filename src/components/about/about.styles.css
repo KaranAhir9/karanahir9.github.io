@@ -1,0 +1,37 @@
+.about-grid {
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    /* height: 110vh; */
+    width: 100vw;
+}
+
+.profile-img {
+    border-radius: 50%;
+}
+
+.about-grid h3 {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 1rem;
+}
+
+.about-grid p {
+    color: grey;
+    font-size: 18px;
+    width: 70%;
+     margin-top: 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-item{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 1rem;
+}

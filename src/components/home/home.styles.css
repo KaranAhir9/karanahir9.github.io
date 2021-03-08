@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=RocknRoll+One&display=swap');
+
+
+.home {
+    /* background-image: url(https://images.unsplash.com/photo-1494122353634-c310f45a6d3c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80); */
+    
+    /* background-image: url(https://images.unsplash.com/photo-1460355976672-71c3f0a4bdac?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80); */
+    /* background-image: url(https://images.unsplash.com/photo-1474432978580-3d2a63f706e9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80); */
+    background-image: url(https://images.unsplash.com/photo-1483356256511-b48749959172?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+    background-size: cover;
+    display: flex;
+    height: 700px;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.home h2 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    color: #b31746;
+    margin: 0.2rem;
+}
+
+.home h1 {
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 80px;
+    color: whitesmoke;
+    margin: 0.2rem;
+}
+
+.home h5 {
+    font-size: 30px;
+    color: whitesmoke;
+    margin: 0.5rem;
+}
+
+.home button {
+    background: transparent;
+    outline:none;
+    font-size: 25px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 2rem;
+    border: 2px solid #b31746;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+
+.home button:hover {
+    color: #b31746;
+    border: 2px solid grey;
+}
