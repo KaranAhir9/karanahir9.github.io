@@ -1,0 +1,9 @@
+.resume-grid {
+    display: flex;
+    /* height: 215vh; */
+    width: 100vw;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    background-color: floralwhite;
+}
