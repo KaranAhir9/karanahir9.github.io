@@ -1,5 +1,5 @@
 {
-  "homepage": "http://karanahir9.github.io/karanahir.github.io",
+  "homepage": "http://karanahir9.github.io",
   "name": "my-resume",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +11,7 @@
     "react-chrono": "^1.9.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "^4.0.1",
     "react-scroll": "^1.8.1",
     "web-vitals": "^0.2.4"
   },
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
