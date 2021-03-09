@@ -1,7 +1,6 @@
 import React from "react";
 import './resume.styles.css';
 import {Chrono} from "react-chrono";
-import profileImage from '../../assets/profile.jpg';
 import briefcaseImg from '../../assets/briefcase-solid.svg';
 import bookImg from "../../assets/book-solid.svg";
 import {JOB_DATA} from "../../data/experience.data";
