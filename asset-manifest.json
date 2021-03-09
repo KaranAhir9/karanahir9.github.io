@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/karanahir9.github.io/static/css/main.33300ca6.chunk.css",
-    "main.js": "/karanahir9.github.io/static/js/main.fa10585d.chunk.js",
-    "main.js.map": "/karanahir9.github.io/static/js/main.fa10585d.chunk.js.map",
-    "runtime-main.js": "/karanahir9.github.io/static/js/runtime-main.9195e765.js",
-    "runtime-main.js.map": "/karanahir9.github.io/static/js/runtime-main.9195e765.js.map",
-    "static/js/2.76c711e4.chunk.js": "/karanahir9.github.io/static/js/2.76c711e4.chunk.js",
-    "static/js/2.76c711e4.chunk.js.map": "/karanahir9.github.io/static/js/2.76c711e4.chunk.js.map",
-    "static/js/3.d7209ec1.chunk.js": "/karanahir9.github.io/static/js/3.d7209ec1.chunk.js",
-    "static/js/3.d7209ec1.chunk.js.map": "/karanahir9.github.io/static/js/3.d7209ec1.chunk.js.map",
-    "index.html": "/karanahir9.github.io/index.html",
-    "static/css/main.33300ca6.chunk.css.map": "/karanahir9.github.io/static/css/main.33300ca6.chunk.css.map",
-    "static/js/2.76c711e4.chunk.js.LICENSE.txt": "/karanahir9.github.io/static/js/2.76c711e4.chunk.js.LICENSE.txt",
-    "static/media/Resume.7b7ba9ee.pdf": "/karanahir9.github.io/static/media/Resume.7b7ba9ee.pdf",
-    "static/media/book-solid.7f28970e.svg": "/karanahir9.github.io/static/media/book-solid.7f28970e.svg",
-    "static/media/briefcase-solid.03a61b54.svg": "/karanahir9.github.io/static/media/briefcase-solid.03a61b54.svg",
-    "static/media/profile.36f7eb1b.jpg": "/karanahir9.github.io/static/media/profile.36f7eb1b.jpg"
+    "main.css": "/karanahir.github.io/static/css/main.81cc1221.chunk.css",
+    "main.js": "/karanahir.github.io/static/js/main.fa10585d.chunk.js",
+    "main.js.map": "/karanahir.github.io/static/js/main.fa10585d.chunk.js.map",
+    "runtime-main.js": "/karanahir.github.io/static/js/runtime-main.c418703d.js",
+    "runtime-main.js.map": "/karanahir.github.io/static/js/runtime-main.c418703d.js.map",
+    "static/js/2.76c711e4.chunk.js": "/karanahir.github.io/static/js/2.76c711e4.chunk.js",
+    "static/js/2.76c711e4.chunk.js.map": "/karanahir.github.io/static/js/2.76c711e4.chunk.js.map",
+    "static/js/3.d7209ec1.chunk.js": "/karanahir.github.io/static/js/3.d7209ec1.chunk.js",
+    "static/js/3.d7209ec1.chunk.js.map": "/karanahir.github.io/static/js/3.d7209ec1.chunk.js.map",
+    "index.html": "/karanahir.github.io/index.html",
+    "static/css/main.81cc1221.chunk.css.map": "/karanahir.github.io/static/css/main.81cc1221.chunk.css.map",
+    "static/js/2.76c711e4.chunk.js.LICENSE.txt": "/karanahir.github.io/static/js/2.76c711e4.chunk.js.LICENSE.txt",
+    "static/media/Resume.7b7ba9ee.pdf": "/karanahir.github.io/static/media/Resume.7b7ba9ee.pdf",
+    "static/media/book-solid.7f28970e.svg": "/karanahir.github.io/static/media/book-solid.7f28970e.svg",
+    "static/media/briefcase-solid.03a61b54.svg": "/karanahir.github.io/static/media/briefcase-solid.03a61b54.svg",
+    "static/media/profile.36f7eb1b.jpg": "/karanahir.github.io/static/media/profile.36f7eb1b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9195e765.js",
+    "static/js/runtime-main.c418703d.js",
     "static/js/2.76c711e4.chunk.js",
-    "static/css/main.33300ca6.chunk.css",
+    "static/css/main.81cc1221.chunk.css",
     "static/js/main.fa10585d.chunk.js"
   ]
 }
