@@ -10,7 +10,6 @@
     background-size: cover;
     display: flex;
     height: 700px;
-    width: 100vw;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -34,7 +33,7 @@
 .home h5 {
     font-size: 30px;
     color: whitesmoke;
-    margin: 0.5rem;
+    margin: 2rem;
 }
 
 .home button {
@@ -52,4 +51,27 @@
 .home button:hover {
     color: #b31746;
     border: 2px solid grey;
+}
+
+@media screen and (max-width: 600px) {
+    .home {
+        text-align: center;
+    }
+    .home h1 {
+        font-family: 'RocknRoll One', sans-serif;
+        font-size: 60px;
+        color: whitesmoke;
+        margin: 0.2rem;
+    }
+    .home h5 {
+        font-size: 22.5px;
+        color: whitesmoke;
+        margin: 2rem;
+    }
+    .home h2 {
+        font-family: 'Kaushan Script', cursive;
+        font-size: 19px;
+        color: #b31746;
+        margin: 0.2rem;
+    }
 }

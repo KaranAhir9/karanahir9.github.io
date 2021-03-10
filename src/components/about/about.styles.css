@@ -5,7 +5,7 @@
     flex-direction: column;
     background-color: white;
     /* height: 110vh; */
-    width: 100vw;
+
 }
 
 .profile-img {
@@ -21,17 +21,38 @@
 .about-grid p {
     color: grey;
     font-size: 18px;
-    width: 70%;
+    width:80%;
      margin-top: 0;
 }
 
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
+    margin: auto;
 }
 
 .grid-item{
     font-weight: bold;
     font-size: 20px;
     margin: 1rem;
+}
+
+
+@media screen and (max-width: 600px) {
+    .about-grid {
+        text-align: center;
+    }
+    .about-grid p {
+        width: 90%;
+    }
+
+    .grid-container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .grid-item {
+        margin-top: 0%;
+    }
 }
