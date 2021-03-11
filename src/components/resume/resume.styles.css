@@ -7,6 +7,19 @@
     background-color: floralwhite;
 }
 
-@media screen and (max-width: 600px) {
+.business-grid {
+    width: 80%;
+}
 
+.education-grid {
+    width: 80%;
+}
+@media screen and (max-width: 600px) {
+    .business-grid{
+        width: 100%;
+    }
+
+    .education-grid {
+        width: 100%;
+    }
 }

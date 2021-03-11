@@ -13,7 +13,7 @@ export const Resume = () => {
             <h1 style={{ color: 'black', fontSize:'40px', margin:'0', textAlign:'center'}}>More of my credentials.</h1>
             <h3 style={{color: 'grey', fontSize: '20px', textAlign: 'center'}}>Below are my Work Experiences and Educational details.</h3>
             <h4  style={{ color: '#b31746', fontSize: '20px'}}>Work Experience</h4>
-            <div style= {{width: '90%'}}>
+            <div className="business-grid">
                 <Chrono  hideControls= "true" items={JOB_DATA} mode={"VERTICAL"} theme={{primary: "#b31746", secondary: "white", cardBgColor: "whitesmoke", cardForeColor: "#b31746" }}>
                 <div className="chrono-icons">
                         <img src={briefcaseImg} alt="image1" />
@@ -21,7 +21,7 @@ export const Resume = () => {
                 </div>                
                 </Chrono></div>
             <h4  style={{ color: '#b31746', fontSize: '20px'}}>Education</h4>
-            <div style= {{width: '90%'}}><Chrono hideControls="true" items={EDUCATION_DATA} mode={"VERTICAL"} theme={{primary: "#b31746", secondary: "white", cardBgColor: "whitesmoke", cardForeColor: "#b31746" }}>
+            <div className="education-grid"><Chrono hideControls="true" items={EDUCATION_DATA} mode={"VERTICAL"} theme={{primary: "#b31746", secondary: "white", cardBgColor: "whitesmoke", cardForeColor: "#b31746" }}>
                 <div className="chrono-icons">
                         <img src={bookImg} alt="image1" />
                         <img src={bookImg} alt="image2" />
