@@ -8,7 +8,7 @@ export const Contact = () => {
             <h2 style={{ color: '#b31746', fontSize: '25px' }}>Contact</h2>
             <h1 style={{ color: 'white', fontSize:'40px', margin:'0',textAlign:'center'}}>I'd Love To Hear From You.</h1>
             <h3 style={{color: 'grey', fontSize: '20px', textAlign:'center'}}>Please click the icon below to send me an Email.</h3>
-            <a  target="_blank" href="mailto:karanahir271994@gmail.com"><i className="fa fa-envelope-o fa-5x" aria-hidden="true"></i></a>
+            <a  target="_blank" rel="noreferrer" href="mailto:karanahir271994@gmail.com"><i className="fa fa-envelope-o fa-5x" aria-hidden="true"></i></a>
 
             <div className = "icons">
                 <div>

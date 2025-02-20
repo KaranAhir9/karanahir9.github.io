@@ -18,6 +18,7 @@ export const Resume = () => {
                 <div className="chrono-icons">
                         <img src={briefcaseImg} alt="image1" />
                         <img src={briefcaseImg} alt="image2" />
+                        <img src={briefcaseImg} alt="image3" />
                 </div>                
                 </Chrono></div>
             <h4  style={{ color: '#b31746', fontSize: '20px'}}>Education</h4>

@@ -14,9 +14,9 @@ export const Home = () => {
 
     return(
         <div  className="home">
-            <h2>HELLO THERE VISITOR</h2>
+            <h2>HELLO</h2>
             <h1>I'm Karan Ahir.</h1>
-            <h5>FULL-STACK DEVELOPER | JAVASCRIPT | REACT | NODE | AWS</h5>
+            <h5>FRONT-END DEVELOPER | JAVASCRIPT | REACT | HTML | CSS</h5>
 
             <button onClick={handleAboutSection}>More About Me ˅</button>
         </div>
